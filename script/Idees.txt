@@ -1,0 +1,19 @@
+- Faire des menteurs : donnent faux noms que gus enregistre
+- Faire pleurer Gus : dépression: le pnj le plus proche vient le voir pour lui remonter le moral
+- Faire un postier qui peut donner des lettres avec des infos?
+- Faire un vieux sage qui donne des enigmes?
+- Faire une histoire: ex histoire d'amour entre 2 PNJ, on doit les rabibocher
+- Donner des boost de vigueur pour remonter la jauge
+- Placement aleatoire de PNJ --> fait -> A verifier!
+- Mouvement des PNJ
+- Animer les personnages
+- Enrichir les conversations et états
+- Enrichir les modifs de sociabilité
+
+
+- Analyser la ponctuation
+
+- Patience à zero => move rand "devient fou"
+
+Codé:
+Selon la sociabilité de Gus, il va plus ou moins insister pour obtenir une réponse

@@ -1,0 +1,22 @@
+--------------------------------------------------------------------
+- VOUS TROUVEREZ CI-DESSOUS UNE SOLUTION POUR ATTEINDRE L'OBJECTIF -
+--------------------------------------------------------------------
+
+- Aller chercher la lettre
+- Parler au postier -- retourner le voir dès que la vigueur est sous 40
+- Parler à Stan, l'homme moustachu au chapeau vert
+- Parler à Jean, l'homme qui se cache derrière une serviette
+- Se déplacer jusqu'à être à moins de 70 de vigueur => cela complètera sa quête
+- Retourner parler à Jean
+- Aller parler à Marie, la seule fille
+- Parler à Raphael le pirate
+- Se cogner 50 fois contre le mur => cela complètera sa quête
+- Retourner parler à Raphael
+- Retourner parler à Marie => cela complètera sa quête
+- Retourner parler à Stan => sa quête est complète
+- Si Gus a bien deviné, il ne reste plus qu'à lui reparler et aller voir le postier
+- Sinon, retourner parler à Jean jusqu'à ce qu'il soit en timide
+- Parler aux autres et vérifier que personne n'est en timide -- retourner voir Marie si la vigueur est faible
+- Gus va pouvoir bien deviné l'auteur de la lettre en allant voir Stan. Il faut ensuite reparler à Stan puis au postier
+
+---- AMUSEZ-VOUS BIEN! ----

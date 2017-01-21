@@ -1,0 +1,6 @@
+http://www.tinyurl.com/IAJV2016
+
+C:\Users\Elodie\Desktop\IA\Win64_Installers\love-0.10.0-win64/love.exe C:\Users\Elodie\Desktop\IA\script
+
+D:\Paul\Onedrive\Documents\IA\Projet\Win64_Installers\love-0.10.0-win64\love.exe script
+
